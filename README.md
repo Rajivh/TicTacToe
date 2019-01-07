@@ -16,6 +16,6 @@ I was inspired to do this project by the first chapter in Tom Mitchell's book on
 
 It was definitely a valuable learning experience - both in terms of coding an end - to - end project as well as understanding the basic blocks of machine learning.
 
-Disclaimer: Code quality has lots of improvement.
+Disclaimer: Code quality has lots of scope for improvement.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rajivh/TicTactToe/master)
