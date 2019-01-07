@@ -1,4 +1,4 @@
-# TicTactToe
+# TicTacToe
 
 (Assuming that the reader is familiar with the rules of the game) - This project's objective is about training a machine agent to play against a human player. The following steps were followed to achieve this objective:
 1. A simple program to play Tic Tac Toe was created - where the machine agent makes random moves.
